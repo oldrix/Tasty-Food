@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Tasty-Food/static/css/main.f7e3f093.css",
+    "main.js": "/Tasty-Food/static/js/main.5865a54b.js",
+    "static/media/logo.png": "/Tasty-Food/static/media/logo.b145b5212c9089e1c7d8.png",
+    "static/media/Pizza.png": "/Tasty-Food/static/media/Pizza.64a06744df5a81feb89d.png",
+    "static/media/sous.png": "/Tasty-Food/static/media/sous.df87631122228b545dbc.png",
+    "static/media/rolls.png": "/Tasty-Food/static/media/rolls.241e6feeb96e417a6f9d.png",
+    "static/media/wok.png": "/Tasty-Food/static/media/wok.45eeb79b82addf187c91.png",
+    "static/media/burger.png": "/Tasty-Food/static/media/burger.ac8b3456c5c7f5d28c1a.png",
+    "static/media/drink.png": "/Tasty-Food/static/media/drink.5b9f13feed41e4a14fa2.png",
+    "index.html": "/Tasty-Food/index.html",
+    "main.f7e3f093.css.map": "/Tasty-Food/static/css/main.f7e3f093.css.map",
+    "main.5865a54b.js.map": "/Tasty-Food/static/js/main.5865a54b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7e3f093.css",
+    "static/js/main.5865a54b.js"
+  ]
+}
