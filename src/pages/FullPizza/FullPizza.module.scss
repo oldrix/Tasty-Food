@@ -1,0 +1,43 @@
+.root {
+  display: flex;
+  padding: 50px 0;
+  gap: 30px;
+  @media (max-width: 1000px) {
+    padding: 28px 0;
+    gap: 21px;
+  }
+  img {
+    width: 485px;
+    height: 485px;
+    @media (max-width: 1000px) {
+      width: 170px;
+      height: 170px;
+    }
+    @media (max-width: 436px) {
+      width: 120px;
+      height: 120px;
+    }
+  }
+  .title {
+    @media (max-width: 1000px) {
+      font-size: 26px;
+    }
+    @media (max-width: 436px) {
+      font-size: 20px;
+    }
+    color: #000000;
+    font-size: 36px;
+    margin: 0;
+    font-weight: 900;
+  }
+  .desc {
+    @media (max-width: 1000px) {
+      font-size: 19px;
+    }
+    @media (max-width: 436px) {
+      font-size: 14px;
+    }
+    font-size: 26px;
+    color: rgb(78, 78, 78);
+  }
+}
